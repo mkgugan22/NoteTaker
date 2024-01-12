@@ -1,0 +1,16 @@
+.hover-card:hover {
+    transform: scale(1.03);
+    transition: all 0.2s;
+  }
+/* CenteredImage.css */
+.relative-container {
+    position: relative;
+  }
+  
+  .centered-image {
+    position: absolute;
+    top: 100;
+    left: 100;
+    z-index: 1;
+  }
+  

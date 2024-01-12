@@ -1,0 +1,6 @@
+.centered-image {
+    position: absolute;
+    top: 100;
+    left: 100;
+    z-index: 1;
+  }
